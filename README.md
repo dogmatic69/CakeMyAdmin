@@ -46,8 +46,10 @@ As it is built using the CakePHP framework, the idea would be to add some CakePH
 General CRUD functionality:
 
 > CAPITAL = Full implemented
+>
 > lowercase = Partial implemented
-> - = Not yet implemented
+>
+> \- = Not yet implemented
 
 	Databases:     CRUD
 	Tables:        -R--
