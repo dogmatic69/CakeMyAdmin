@@ -1,0 +1,42 @@
+body {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+}
+
+/**
+ * Side nav
+ */
+
+.side-nav {
+	font-size: 85%;
+}
+
+.side-nav .panel-body {
+	padding: 10px;
+}
+
+.side-nav .panel-title {
+	font-size: 12px;
+}
+
+.side-nav .panel-heading {
+	padding: 0;
+}
+
+.side-nav .panel-heading a {
+	width: 100%;
+	height: 100%;
+	display: block;
+	padding: 4px 10px;
+	text-decoration: none;
+}
+
+ul.tables li {
+	white-space: nowrap;
+}
+
+.btn.row-count {
+	text-align: right; 
+	width: 50px;
+}
